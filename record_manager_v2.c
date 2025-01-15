@@ -1,3 +1,7 @@
+/* This is a student record manager program.
+This program uses double linked list and bubble sort at its core.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
