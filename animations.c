@@ -1,3 +1,11 @@
+/*
+This code uses C escape sequences to generate some animation in console
+There are 2 types of animations, one is a type of dvd aanimation "cubegenerator"
+    second one is like bytes falling down on screen "linearmatrix"
+    You can change 'cubegenerator' or 'framematrix' in main() to use the animation you like
+    width and height is the size of animation in number of texts
+*/
+
 #include <stdio.h>
 #include <windows.h>
 #include <time.h>
