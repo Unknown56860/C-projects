@@ -1,3 +1,8 @@
+/* A simple game of tic-tac-toe written in C
+You can play this game in console by entering value for your move
+I dont know how I got it ot work but it works :)
+*/
+
 #include <stdio.h>
 
 char a[9];
